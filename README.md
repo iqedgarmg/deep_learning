@@ -7,8 +7,13 @@ Supplementary material for deep learning class. Intelligent control course.
 
 # Supplementary Links
 * Backpropagation on convolutional layers: https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/
-* Installing caffe on Ubuntu: http://installing-caffe-the-right-way.wikidot.com/start
-* Installing caffe on Windows: https://kezunlin.me/post/1739694c/
-* Installing OpenCV on Ubuntu: https://www.learnopencv.com/install-opencv3-on-ubuntu/
-* Installin OpenCV on Windows: https://docs.opencv.org/master/d5/de5/tutorial_py_setup_in_windows.html
+* Installing Jupyter notebook
+  * Ubuntu: https://jupyter.readthedocs.io/en/latest/install.html
+  * Windows: https://medium.com/@kswalawage/install-python-and-jupyter-notebook-to-windows-10-64-bit-66db782e1d02
+* Installing caffe 
+  * Ubuntu: http://installing-caffe-the-right-way.wikidot.com/start
+  * Windows: https://kezunlin.me/post/1739694c/
+* Installing OpenCV
+  * Ubuntu: https://www.learnopencv.com/install-opencv3-on-ubuntu/
+  * Windows: https://docs.opencv.org/master/d5/de5/tutorial_py_setup_in_windows.html
 
